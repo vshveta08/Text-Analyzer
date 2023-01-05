@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+I have made Text Analyzer using ReactJS. 
+It provides the some features like enter your text and it will do text in Uppercase, Lowercase, Clear all text, Copy all text, speak text, Capitalize first letter of all words, & Remove extra spaces. And it also counts the number of words & characters of entered text.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Below is the Light Mode Interface --->
+![Screenshot (1324)](https://user-images.githubusercontent.com/109027067/210784820-e234dc18-c186-44c0-ae78-b86c908fc570.png)
 
-## Available Scripts
+And this is the Dark Mode Interface --->
+![Screenshot (1325)](https://user-images.githubusercontent.com/109027067/210784976-74afaca2-bed3-4f08-832d-0323927e9743.png)
 
-In the project directory, you can run:
+Some Features of Text Analyzer shown below --->
+Converted Text in Uppercase -
+![Screenshot (1327)](https://user-images.githubusercontent.com/109027067/210785354-911733bd-403f-48d3-911e-3128aba1957c.png)
 
-### `npm start`
+Converted Text in Lowercase -
+![Screenshot (1328)](https://user-images.githubusercontent.com/109027067/210785431-6f7dba60-e906-4497-8e16-4790bc79b2e2.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Copy Text -
+![Screenshot (1329)](https://user-images.githubusercontent.com/109027067/210785601-cea7d5b5-564f-4e36-8650-0a7ff8d8d01d.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Capitalize First letter of all word -
+![Screenshot (1330)](https://user-images.githubusercontent.com/109027067/210785789-cb180918-bc6c-4624-84cc-8056ffe0f32b.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
